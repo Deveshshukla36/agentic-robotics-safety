@@ -1,6 +1,6 @@
 # agentic-robotics-safety
 # Agentic Robotics Safety Monitor 🚀  ## Overview A complete, production-grade implementation of an agentic AI framework for real-time safety monitoring in robotics environments. The system features 5 specialized agents that collaborate to detect, reason, and respond to safety violations.  ## Agent Architecture
-[22:08, 5/16/2026] Devesh Shukla: 
+Devesh Shukla & Tanishk Tata : 
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red.svg)](https://pytorch.org/)
